@@ -1,0 +1,23 @@
+{
+  "name": "mdummybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFantaz/MDummyBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFantaz/MDummyBot/issues"
+  },
+  "homepage": "https://github.com/TheFantaz/MDummyBot#readme",
+  "dependencies": {
+    "mineflayer": "^4.4.0",
+    "mineflayer-armor-manager": "^1.4.2"
+  }
+}
